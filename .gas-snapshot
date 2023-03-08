@@ -1,0 +1,4 @@
+Plugin:testSetUp() (gas: 20621)
+WyreFundContractWithETHTest:testExternalFund(uint256) (runs: 256, μ: 18329, ~: 18329)
+WyreFundContractWithETHTest:testFundContractWithETH(uint256) (runs: 256, μ: 19797, ~: 19797)
+WyreFundContractWithETHTest:testSetUp() (gas: 20621)
